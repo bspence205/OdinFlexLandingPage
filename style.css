@@ -36,12 +36,20 @@ li {
 
 .mainSection {
   display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 100px;
+}
+
+.mainTest {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .back {
   /* background-color: yellow; */
-  flex: 1 1 0;
+  /* flex: 1 1 0; */
   padding: 20px;
 }
 
